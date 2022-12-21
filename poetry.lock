@@ -1,0 +1,15 @@
+[[package]]
+name = "fpdf"
+version = "1.7.2"
+description = "Simple PDF generation for Python"
+category = "main"
+optional = false
+python-versions = "*"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.8"
+content-hash = "def64697b3baa2b5a152e82a56b8261eea8b44c61d3ddca2f903a4972be00964"
+
+[metadata.files]
+fpdf = []

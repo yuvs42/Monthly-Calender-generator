@@ -1,3 +1,2 @@
-Monthly calender generator.
-  The project have one dependency wich is fpdf2. in order to run it, simply run 'python -m pip install fpdf2'
-   and then run the program. The program will generate a PFD file in the same folder.  
+To use, simply click run, and entry a month in number (1-12), and a year.
+The program will generate a file in the current folder. simply download the folder to you machine. 
